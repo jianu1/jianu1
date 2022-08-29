@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marius-Stefanita Jianu or @jianu1
-- 👀 I’m interested in FrontEnd Developer and iOS Application
+- 👀 I’m interested in iOS Application
 - 🌱 I’m currently learning iOS, SwiftUI Mobile Aplications
 - 💞️ I’m looking to collaborate as freelancing
 - 📫 How to reach me? 😊 Simple, you can write to my email address 📧: jianu.stefa@icloud.com
